@@ -1,0 +1,14 @@
+//XML
+
+<dependencies>
+    <dependency>
+        <groupId>org.apache.mahout</groupId>
+        <artifactId>mahout-core</artifactId>
+        <version>0.9</version>
+    </dependency>
+    <dependency>
+        <groupId>org.apache.mahout</groupId>
+        <artifactId>mahout-math</artifactId>
+        <version>0.9</version>
+    </dependency>
+</dependencies>
